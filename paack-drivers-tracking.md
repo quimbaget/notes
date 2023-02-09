@@ -4,28 +4,28 @@
 
 ## Must Have Features
 
-### Handle direct orders
+### [] Handle direct orders
 **Comments:** -
-- [] Done
+**Status:** -
 
-### Handle reverse orders
+### [] Handle reverse orders
 **Comments:** -
-- [] Done
+**Status:** -
 
-### Handle reverse orders with POP (QR Scan)
+### [] Handle reverse orders with POP (QR Scan)
 **Comments:** -
-- [] Done
+**Status:** -
 
 
-### Login with phone number
+### [] Login with phone number
 **Comments:** -
-- [] Done
+**Status:** -
 
-### Logout
+### [] Logout
 **Comments:** -
-- [] Done
+**Status:** -
 
-### Info: Pickup name + address + instructions
+### [] Info: Pickup name + address + instructions
 **Comments:** -
-- [] Done
+**Status:** -
 
