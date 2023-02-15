@@ -72,7 +72,7 @@
 
 ### Info: Order time slot A.K.A ETA
 - **Comments:** 
-  - Pending definition [ ]
+  - [ ] Pending definition
 - [ ] **Done** 
 
 ---
@@ -80,15 +80,15 @@
 ### Info: Stop number (Default routing)
 - **Comments:** 
   - We can use the index of the array, RMS pending ?
-  - Add the information at route definition [ ]
+  - [ ] Add the information at route definition
 - [ ] **Done** 
 
 ---
 
 ### Info: Cash on Delivery
 - **Comments:**
-  - Pending definition: Should we use also the confirm flow of store model? [ ]
-  - Pending to add COD information at route definition [ ]
+  - [ ] Pending definition: Should we use also the confirm flow of store model?
+  - [ ] Pending to add COD information at route definition [ ]
 - [ ] **Done** 
 
 ---
@@ -131,14 +131,14 @@
 
 ### Delivery - Call customer (Twilio)
 - **Comments:**
-  - API Call to be implemented [ ]
+  - [ ] API Call to be implemented
 - [ ] **Done** 
 
 ---
 
 ### Delivery - Record call customer
 - **Comments:**
-  - Pending definition [ ]
+  - [ ] Pending definition
 - [ ] **Done** 
 
 ---
@@ -175,14 +175,14 @@
 
 ### Delivery - Report delivery attempt (fail delivery)
 - **Comments:**
-  - Pending definition [ ]
+  - [ ] Pending definition
 - [ ] **Done** 
 
 ---
 
 ### Delivery - Reattempt same day
 - **Comments:**
-  - Pending definition [ ]
+  - [ ] Pending definition
 - [ ] **Done** 
 
 ---
@@ -201,7 +201,7 @@
 
 ### Map - Markers with stop number
 - **Comments:**
-  - Integrate latest GNAV version in WH model [ ]
+  - [ ] Integrate latest GNAV version in WH model
 - [ ] **Done** 
 
 ---
