@@ -196,7 +196,8 @@
 
 ### Map
 - **Comments:**
-- [x] **Done**
+  - [ ] Pending for platform to give access to fleet engine
+- [ ] **Done**
 
 ---
 
@@ -216,5 +217,12 @@
 ### Navigation - Enable/Disable voice guidance
 - **Comments:**
 - [x] **Done**
+
+---
+
+### Account information
+- **Comments:**
+  - [ ] Endpoint to request all the driver account information
+- [ ] **Done**
 
 ---
