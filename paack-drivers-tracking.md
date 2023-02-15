@@ -14,13 +14,13 @@
 
 ### Handle reverse orders
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Handle reverse orders with POP (QR Scan)
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -36,13 +36,13 @@
 
 ### Info: Pickup name + address + instructions
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Info: Delivery name + address + instructions
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -66,14 +66,14 @@
 
 ### Info: Sales order number
 - **Comments:** It's left to add the information at the route coming from LMO backend
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Info: Order time slot A.K.A ETA
 - **Comments:** 
   - Pending definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -81,7 +81,7 @@
 - **Comments:** 
   - We can use the index of the array, RMS pending ?
   - Add the information at route definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -89,13 +89,13 @@
 - **Comments:**
   - Pending definition: Should we use also the confirm flow of store model? [ ]
   - Pending to add COD information at route definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Info: "Another information" field
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -107,7 +107,7 @@
 
 ### [ ] Pickup with continuous scan
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -132,14 +132,14 @@
 ### Delivery - Call customer (Twilio)
 - **Comments:**
   - API Call to be implemented [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Delivery - Record call customer
 - **Comments:**
   - Pending definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -176,20 +176,20 @@
 ### Delivery - Report delivery attempt (fail delivery)
 - **Comments:**
   - Pending definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Delivery - Reattempt same day
 - **Comments:**
   - Pending definition [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
 ### Account - Orders completed
 - **Comments:**
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
@@ -202,7 +202,7 @@
 ### Map - Markers with stop number
 - **Comments:**
   - Integrate latest GNAV version in WH model [ ]
-- [x] **Done** 
+- [ ] **Done** 
 
 ---
 
