@@ -6,214 +6,214 @@
 
 ## Must Have Features
 
-### [x] Handle direct orders
-- **Comments:** - <br>
-- **Status:** -
+### Handle direct orders
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [ ] Handle reverse orders
-- **Comments:** - <br>
-- **Status:** -
+### Handle reverse orders
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [ ] Handle reverse orders with POP (QR Scan)
-- **Comments:** - <br>
-- **Status:** -
+### Handle reverse orders with POP (QR Scan)
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Login with phone number
-- **Comments:** - <br>
-- **Status:** -
+### Login with phone number
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [x] Logout
-- **Comments:** - <br>
-- **Status:** -
+### Logout
+- **Comments:**
+- **Done** [x]
 
-### [ ] Info: Pickup name + address + instructions
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [ ] Info: Delivery name + address + instructions
-- **Comments:** - <br>
-- **Status:** -
+### Info: Pickup name + address + instructions
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Info: Retailer name
-- **Comments:** - <br>
-- **Status:** -
+### Info: Delivery name + address + instructions
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Info: Order name
-- **Comments:** - <br>
-- **Status:** -
+### Info: Retailer name
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [x] Info: Order number
-- **Comments:** - <br>
-- **Status:** -
+### Info: Order name
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [ ] Info: Sales order number
+### Info: Order number
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Info: Sales order number
 - **Comments:** It's left to add the information at the route coming from LMO backend
-- **Status:** -
+- **Done** [ ]
 
 ---
 
-### [ ] Info: Order time slot A.K.A ETA
+### Info: Order time slot A.K.A ETA
 - **Comments:** 
   - Pending definition [ ]
-- **Status:** TO BE DEFINED
+- **Done** [ ]
 
 ---
 
-### [ ] Info: Stop number (Default routing)
+### Info: Stop number (Default routing)
 - **Comments:** 
   - We can use the index of the array, RMS pending ?
   - Add the information at route definition [ ]
-- **Status:** -
+- **Done** [ ]
 
 ---
 
-### [ ]  Info: Cash on Delivery
+### Info: Cash on Delivery
 - **Comments:**
   - Pending definition: Should we use also the confirm flow of store model? [ ]
   - Pending to add COD information at route definition [ ]
-- **Status:** -
+- **Done** [ ]
 
 ---
 
-### [ ] Info: "Another information" field
-- **Comments:** - <br>
-- **Status:** -
+### Info: "Another information" field
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Default Pickup
-- **Comments:** - <br>
-- **Status:** -
+### Default Pickup
+- **Comments:**
+- **Done** [x]
 
 ---
 
 ### [ ] Pickup with continuous scan
-- **Comments:** - <br>
-- **Status:** -
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Report pickup issue
-- **Comments:** - <br>
-- **Status:** -
+### Report pickup issue
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [x] Save location on pickup
-- **Comments:** - <br>
-- **Status:** -
+### Save location on pickup
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [x] Save location on delivery
-- **Comments:** - <br>
-- **Status:** -
+### Save location on delivery
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [ ] Delivery - Call customer (Twilio)
+### Delivery - Call customer (Twilio)
 - **Comments:**
   - API Call to be implemented [ ]
-- **Status:** TO DO
+- **Done** [ ]
 
 ---
 
-### [ ] Delivery - Record call customer
-- **Comments:**
-  - Pending definition
-- **Status:** TO BE DEFINED
-
----
-
-### [x] Delivery - Option Customer
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [x] Delivery - Option third party
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [x] Delivery - Requirement Signature
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [x] Delivery - Requirement ID number
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [x] Delivery - Requirement Photo
-- **Comments:** - <br>
-- **Status:** -
-
----
-
-### [ ] Delivery - Report delivery attempt (fail delivery)
+### Delivery - Record call customer
 - **Comments:**
   - Pending definition [ ]
-- **Status:** TO BE DEFINED
+- **Done** [ ]
 
 ---
 
-### [ ] Delivery - Reattempt same day
+### Delivery - Option Customer
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Delivery - Option third party
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Delivery - Requirement Signature
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Delivery - Requirement ID number
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Delivery - Requirement Photo
+- **Comments:**
+- **Done** [x]
+
+---
+
+### Delivery - Report delivery attempt (fail delivery)
+- **Comments:**
+  - Pending definition [ ]
+- **Done** [ ]
+
+---
+
+### Delivery - Reattempt same day
 - **Comments:**
   - Pending definition [ ]
-- **Status:** TO BE DEFINED
+- **Done** [ ]
 
 ---
 
-### [ ] Account - Orders completed
-- **Comments:** - <br>
-- **Status:** -
+### Account - Orders completed
+- **Comments:**
+- **Done** [ ]
 
 ---
 
-### [x] Map
-- **Comments:** - <br>
-- **Status:** -
+### Map
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [ ] Map - Markers with stop number
+### Map - Markers with stop number
 - **Comments:**
   - Integrate latest GNAV version in WH model [ ]
-- **Status:** IN PROGRESS
+- **Done** [ ]
 
 ---
 
-### [x] Navigation - Navigation Preview
-- **Comments:** - <br>
-- **Status:** -
+### Navigation - Navigation Preview
+- **Comments:**
+- **Done** [x]
 
 ---
 
-### [x] Navigation - Enable/Disable voice guidance
-- **Comments:** - <br>
-- **Status:** -
+### Navigation - Enable/Disable voice guidance
+- **Comments:**
+- **Done** [x]
 
 ---
