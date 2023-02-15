@@ -20,7 +20,7 @@
 
 ### Handle reverse orders with POP (QR Scan)
 - **Comments:**
-- [ ] **Done** 
+- [x] **Done** 
 
 ---
 
