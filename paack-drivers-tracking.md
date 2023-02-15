@@ -8,72 +8,72 @@
 
 ### Handle direct orders
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Handle reverse orders
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Handle reverse orders with POP (QR Scan)
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Login with phone number
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Logout
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ### Info: Pickup name + address + instructions
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Info: Delivery name + address + instructions
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Info: Retailer name
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Info: Order name
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Info: Order number
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Info: Sales order number
 - **Comments:** It's left to add the information at the route coming from LMO backend
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Info: Order time slot A.K.A ETA
 - **Comments:** 
   - Pending definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
@@ -81,7 +81,7 @@
 - **Comments:** 
   - We can use the index of the array, RMS pending ?
   - Add the information at route definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
@@ -89,131 +89,131 @@
 - **Comments:**
   - Pending definition: Should we use also the confirm flow of store model? [ ]
   - Pending to add COD information at route definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Info: "Another information" field
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Default Pickup
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### [ ] Pickup with continuous scan
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Report pickup issue
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Save location on pickup
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Save location on delivery
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Call customer (Twilio)
 - **Comments:**
   - API Call to be implemented [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Delivery - Record call customer
 - **Comments:**
   - Pending definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Delivery - Option Customer
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Option third party
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Requirement Signature
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Requirement ID number
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Requirement Photo
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Delivery - Report delivery attempt (fail delivery)
 - **Comments:**
   - Pending definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Delivery - Reattempt same day
 - **Comments:**
   - Pending definition [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Account - Orders completed
 - **Comments:**
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Map
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Map - Markers with stop number
 - **Comments:**
   - Integrate latest GNAV version in WH model [ ]
-- **Done** [ ]
+- [x] **Done** 
 
 ---
 
 ### Navigation - Navigation Preview
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
 
 ### Navigation - Enable/Disable voice guidance
 - **Comments:**
-- **Done** [x]
+- [x] **Done**
 
 ---
