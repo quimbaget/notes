@@ -36,13 +36,14 @@
 
 ### Info: Pickup name + address + instructions
 - **Comments:**
+  - [ ] Add retailer address to the route definition
 - [ ] **Done** 
 
 ---
 
 ### Info: Delivery name + address + instructions
 - **Comments:**
-- [ ] **Done** 
+- [x] **Done** 
 
 ---
 
@@ -175,8 +176,7 @@
 
 ### Delivery - Report delivery attempt (fail delivery)
 - **Comments:**
-  - [ ] Pending definition
-- [ ] **Done** 
+- [x] **Done** 
 
 ---
 
@@ -189,6 +189,7 @@
 
 ### Account - Orders completed
 - **Comments:**
+  - [ ] Pending to implement endpoint to request for completed orders
 - [ ] **Done** 
 
 ---
