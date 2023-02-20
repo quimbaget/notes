@@ -100,7 +100,7 @@
 
 ---
 
-### [ ] Pickup with continuous scan
+### Pickup with continuous scan
 - **Comments:** IN PROGRESS mobile side
 - [ ] **Done** 
 
