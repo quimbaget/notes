@@ -12,12 +12,6 @@
 
 ---
 
-### Handle reverse orders
-- **Comments:**
-- [ ] **Done** 
-
----
-
 ### Handle reverse orders with POP (QR Scan)
 - **Comments:**
 - [x] **Done** 
