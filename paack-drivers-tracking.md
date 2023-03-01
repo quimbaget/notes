@@ -190,8 +190,8 @@
 
 ### Map
 - **Comments:**
-  - [ ] Pending for platform to give access to fleet engine
-- [ ] **Done**
+  - [x] Pending for platform to give access to fleet engine
+- [x] **Done**
 
 ---
 
