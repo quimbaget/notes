@@ -101,7 +101,8 @@
 ---
 
 ### Pickup with continuous scan
-- **Comments:** IN PROGRESS mobile side
+- **Comments:**
+   - [ ] Pending BE API call to complete WH pickup stop
 - [ ] **Done** 
 
 ---
