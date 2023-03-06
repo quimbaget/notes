@@ -198,8 +198,8 @@
 
 ### Map - Markers with stop number
 - **Comments:**
-  - [ ] Integrate latest GNAV version in WH model - IN PROGRESS
-- [ ] **Done** 
+  - [x] Integrate latest GNAV version in WH model - IN PROGRESS
+- [x] **Done** 
 
 ---
 
